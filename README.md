@@ -12,5 +12,6 @@ Jack Pauly, Zachary Inn
 - [CHATGPT (to help with implementation of sklearn and pandas documentation)](https://chat.openai.com/chat)
 
 # Who Did What?
-Jack: Questions 1 & 2 about Barry Bonds & clustering batters
+Jack: Questions 1 & 2 about Barry Bonds & clustering batter
+
 Zach: Questions 3 & 4 about a PCA model & pitchers
